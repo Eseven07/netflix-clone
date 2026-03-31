@@ -18,7 +18,7 @@
 ## 🚀 快速启动
 
 ```bash
-git clone https://github.com/你的用户名/netflix-clone.git
+git clone https://github.com/Eseven/netflix-clone.git
 cd netflix-clone
 npm install
 npm run dev# netflix-clone
