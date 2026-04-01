@@ -15,11 +15,4 @@
 - 完全响应式 + 移动端友好
 - 生产级项目结构（易扩展）
 
-## 🚀 快速启动
-
-```bash
-git clone https://github.com/Eseven/netflix-clone.git
-cd netflix-clone
-npm install
-npm run dev# netflix-clone
-Advanced Netflix Clone built with Next.js 15 + TypeScript + Tailwind
+## 
